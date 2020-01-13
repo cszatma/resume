@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/resume/static/js/main.c200ff5d.chunk.js",
+    "main.js.map": "/resume/static/js/main.c200ff5d.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.966029af.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.966029af.js.map",
+    "static/js/2.b99caa03.chunk.js": "/resume/static/js/2.b99caa03.chunk.js",
+    "static/js/2.b99caa03.chunk.js.map": "/resume/static/js/2.b99caa03.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.752fc93369cd4e87095ad31da4225f88.js": "/resume/precache-manifest.752fc93369cd4e87095ad31da4225f88.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/resume/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b99caa03.chunk.js.LICENSE": "/resume/static/js/2.b99caa03.chunk.js.LICENSE",
+    "static/media/OpenSans-Bold.ttf": "/resume/static/media/OpenSans-Bold.1025a6e0.ttf",
+    "static/media/OpenSans-Regular.ttf": "/resume/static/media/OpenSans-Regular.3ed9575d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.966029af.js",
+    "static/js/2.b99caa03.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c200ff5d.chunk.js"
+  ]
+}
